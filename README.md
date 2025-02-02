@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jerinjamandev</h1>
+<h1 align="center">Hi 👋, I'm jerin Jaman</h1>
 <h3 align="center">Frontend enthusiast 🚀 | Crafting delightful web experiences | Expert in front-end tech | Let's build awesome things together ! 🔧👨‍💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerinjamandev&label=Profile%20views&color=0e75b6&style=flat" alt="jerinjamandev" /> </p>
