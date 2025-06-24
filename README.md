@@ -47,3 +47,85 @@ Hello! I'm **Jerin Jaman**, a passionate and dedicated **Front-End Developer** w
 
 
 
+
+
+
+
+
+
+
+# 🌱 Helpy
+
+## 🔗 Live URL
+
+👉 [Helpy Live Site](https://b11-a11-helpy.netlify.app/)
+
+## 📌 Purpose
+
+This project is designed to encourage community engagement by allowing users to:
+- Create and manage events.
+- Join upcoming events and participate.
+- Explore events based on category and location.
+
+---
+
+## 🚀 Key Features
+
+1. ✅ **JWT-Protected Authentication**  
+   Secure login system using Firebase Auth with JWT token-based private route protection.
+
+2. 🌍 **Upcoming Events Filtering**  
+   Users can filter upcoming events by type (Cleanup, Plantation, Donation) and search by title.
+
+3. 📝 **Event Management Dashboard**  
+   Logged-in users can view and update events they have created. Optionally, they can delete events as well.
+
+4. 🙋‍♂️ **Join Event Functionality**  
+   Users can join events, and their participation is stored in the database with event and user information.
+
+5. 📅 **My Joined Events (Sorted by Date)**  
+   Users can view a list of all events they’ve joined, sorted by event date in ascending order.
+
+   
+## ⚙️ Technologies Used
+
+### Frontend:
+- React.js
+- React Router DOM
+- Tailwind CSS + DaisyUI
+- Axios
+- React Hook Form
+- React DatePicker
+- React Toastify
+- TanStack Query (React Query)
+- Firebase Authentication
+
+### Backend:
+- Express.js
+- MongoDB
+- JSON Web Token (JWT)
+- CORS
+- Dotenv
+
+---
+
+
+## 📦 NPM Packages Used
+
+```bash
+axios
+react
+react-dom
+react-router-dom
+react-toastify
+react-datepicker
+@tanstack/react-query
+firebase
+jsonwebtoken
+cors
+express
+mongodb
+```
+
+
+
