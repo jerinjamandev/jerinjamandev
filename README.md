@@ -23,7 +23,6 @@ Hello! I'm **Jerin Jaman**, a passionate and dedicated **Front-End Developer** w
 - 🤝 Open to collaboration on creative frontend projects or open-source initiatives
 - here its my portfolio :https://my-portfolio-snowy-one-37.vercel.app/
 
-When I’m not coding, I enjoy learning new design trends, exploring tech content, and connecting with like-minded developers.
 ---
 
 
